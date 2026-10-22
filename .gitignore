@@ -1,9 +1,15 @@
-# System / backup files
-.DS_Store
-Thumbs.db
-**/*.lock
-SECRETS.md
+# Ignore Obsidian workspace and cache files (local-only state)
 
-# Temporary / conflict files
-_trash/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/icontheme.json
 
+# Keep core settings, appearance, themes, and community plugins
+
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/plugins/
+!.obsidian/themes/
+!.obsidian/snippets/
