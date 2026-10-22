@@ -1,0 +1,9 @@
+# System / backup files
+.DS_Store
+Thumbs.db
+**/*.lock
+SECRETS.md
+
+# Temporary / conflict files
+_trash/
+
