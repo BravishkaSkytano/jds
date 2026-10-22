@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "0b34fbeb2c3252ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "746630484d7695ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55168ac5ee64351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98bf41175565f9ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fb512be68f63ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f779292fea23ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "347a8c948f6c1692",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2818bd28b82a991",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b2f09bb9a203b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8dc818c47aeaf84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a6f1e152e9acd1fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "391ee15d689d31ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e24fb38afeaafa05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8741897c31f116a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3913beb13f3cee96",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "index.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "fit:Sync to GitHub": false
+    }
+  },
+  "active": "d55168ac5ee64351",
+  "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08-04.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08-05.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08-08.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08-26.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08-30.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august/2024-08-27.md",
+    "_fit/private/_private/_journal/2024/q3/24.09-september/2024-09-04.md",
+    "_fit/private/_private/_journal/2024/q3/24.09-september/2024-09-07.md",
+    "_fit/private/_private/_journal/2024/q3/24.09-september/2024-09-06.md",
+    "_fit/private/_private/_journal/2024/q3/24.09-september/2024-09-09.md",
+    "_fit/private/_private/_journal/2024/q3/24.09-september/2024-09-12.md",
+    "_fit/private/_private/_journal/2024/q3/24.09-september/2024-09-10.md",
+    "_fit/private/_private/_journal/2024/q3/24.08-august",
+    "_fit/private/_private/_journal/2024/q3/24.09-september",
+    "_fit/private/_private/_journal/2024/q3-2024/w31-2024.md",
+    "_fit/private/_private/_journal/2024/q3-2024/w32-2024.md",
+    "_fit/private/_private/_journal/2024/q3-2024/w35-2024.md",
+    "_fit/private/_private/_journal/2024/q3-2024/w29-2024.md",
+    "_fit/private/_private/_journal/2024/q3-2024/w37-2024.md",
+    "_fit/private/_private/_journal/2024/q3/2024-q3.md",
+    "_fit/private/_private/_journal/2024/q3-2024",
+    "_fit/private/_private/_journal/2024/q3",
+    "_fit/private/_private/philosophy/philosophers/20260213150828.md",
+    "_fit/private/_private/8-fruit/courses/20251012200052.md",
+    "_fit/private/_private/8-fruit/courses/20251116215811.md",
+    "_fit/private/_private/8-fruit/courses/20251116212130.md",
+    "_fit/private/_private/8-fruit/courses/20251103004345.md",
+    "_fit/private/Library/silverbulletmd/markdown-prettify/markdown-prettify.plug.js",
+    "_fit/private/_private/philosophy/philosophers",
+    "_fit/private/_private/8-fruit/courses",
+    "_fit/private/_private/_journal/2024",
+    "_fit/private/_private/theology/hermeneutics",
+    "_fit/private/Library/silverbulletmd/markdown-prettify",
+    "_fit/private/Library/Mr-xRed/lucide-icons.svg",
+    "_fit/private/Library/Mr-xRed/hybrid-cursor.svg",
+    "_fit/private/img/banners/a-sunday-on-la-grande-jatte-960x639.webp",
+    "_fit/private/img/banners/arrangement-in-gray-and-black-no-1-960x854.webp",
+    "_fit/private/img/banners/bayeux-tapestry-1760317947129.webp",
+    "_fit/private/img/banners/byzantine-art-1760304037177.webp",
+    "_fit/private/img/banners/byzantine-art-1760304097954.webp",
+    "_fit/private/img/banners/flying-buttress-1760315669597.webp",
+    "_fit/private/img/banners/cathedral-of-florence-500x335.webp",
+    "_fit/private/img/banners/flying-buttress-1760315682967.webp"
+  ]
+}
