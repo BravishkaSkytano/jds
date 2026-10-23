@@ -2,9 +2,8 @@
 title: Home
 cssclasses:
   - dashboard
+banner: "![[logo.png]]"
 ---
-![[logo.png]]
-
 Welcome to Tended Mind, a structured digital garden built with [Johnny.Decimal](https://johnnydecimal.com).
 
 ## 10-19 Life Admin
