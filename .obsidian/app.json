@@ -1,1 +1,10 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "openBehavior": "file:index.md",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-09 System & Meta/01 Inbox",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "settingsPopoutWindow": false
+}
