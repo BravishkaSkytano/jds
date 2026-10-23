@@ -1,7 +1,7 @@
 ---
 title: Home
 created: 2026-10-22 14:49
-modified: 2026-10-22 23:10
+modified: 2026-10-22 23:19
 banner: "![[logo.png]]"
 cssclasses:
   - dashboard
@@ -12,6 +12,7 @@ Welcome to Tended Mind, a structured digital garden built with [Johnny.Decimal](
 ## 10-19 Life Admin
 
 - 11 Me & other living things
+	- 11.01 Journal
 - 12 Where I live & how I get around
 - 13 Money earned, spent, saved, & owed
 - 14 My online life

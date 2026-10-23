@@ -14,6 +14,6 @@ obsidian-note-status:
 ---
 
 > [!tldr] Pierre-Auguste Renoir
-> An [[impressionism|Impressionist]] painter famous for warm, lively scenes of people and leisure.
+> An [[Impressionism|Impressionist]] painter famous for warm, lively scenes of people and leisure.
 
 ^tldr

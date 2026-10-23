@@ -15,6 +15,6 @@ obsidian-note-status:
 ---
 
 > [!tldr] Post-Impressionism
-> A movement after [[impressionism|Impressionism]] where artists used bold colors, expressive brushwork, and symbolic meaning.
+> A movement after [[Impressionism|Impressionism]] where artists used bold colors, expressive brushwork, and symbolic meaning.
 
 ^tldr

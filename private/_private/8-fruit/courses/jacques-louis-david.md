@@ -14,6 +14,6 @@ obsidian-note-status:
 ---
 
 > [!tldr] Jacques-Louis David
-> A leading [[neoclassicism|Neoclassical]] painter known for dramatic, moral, and political scenes.
+> A leading [[Neoclassicism|Neoclassical]] painter known for dramatic, moral, and political scenes.
 
 ^tldr
